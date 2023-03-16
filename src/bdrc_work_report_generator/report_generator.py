@@ -64,7 +64,7 @@ def get_work_report(work_id):
     return work_report
 
 def get_csv_report(work_ids, output_dir):
-    csv_report = "work_id, Number_of_volumes, Number_of_pages\n"
+    csv_report = "Work_id, Number_of_volumes, Number_of_pages\n"
     for work_id in work_ids:
         work_report = get_work_report(work_id)
         csv_report += f"{work_report['work_id'], work_report['Number_of_Volumes'], work_report['Number_of_page']}\n"
