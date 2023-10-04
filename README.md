@@ -7,14 +7,13 @@
 
 <!-- Replace with 1-sentence description about what this tool is or does.-->
 
-<h3 align="center">Use this repo template for all new Python projects.</h3>
+<h3 align="center"> This package generate meta data of bdrc work like number of pages and number of volumes.  </h3>
 
 ## Project owner(s)
 
 <!-- Link to the repo owners' github profiles -->
 
-- [@10zinten](https://github.com/10zinten)
-- [@evanyerburgh](https://github.com/evanyerburgh)
+- [@kaldan007](https://github.com/kaldan007)
 
 ## Integrations
 
